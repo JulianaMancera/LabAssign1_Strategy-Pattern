@@ -10,7 +10,7 @@ public class Archer implements CharacterType{
 
     @Override
     public String attacking(){
-        return "Archer is " + shootArrow.attack();
+        return "Archer " + shootArrow.attack();
 
     }
 

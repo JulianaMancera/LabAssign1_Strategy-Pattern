@@ -10,7 +10,7 @@ public class Wizard implements CharacterType{
 
     @Override
     public String attacking(){
-        return "Wizard is " + spell.attack();
+        return "Wizard " + spell.attack();
     }
 
     @Override

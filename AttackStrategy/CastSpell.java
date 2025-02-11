@@ -3,6 +3,6 @@ package AttackStrategy;
 public class CastSpell implements AttackStrategy{
     @Override
     public String attack(){
-       return "Casts a spell!";
+       return "casts a spell!";
     }
 }

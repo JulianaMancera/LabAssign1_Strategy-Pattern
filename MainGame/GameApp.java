@@ -18,7 +18,7 @@ public class GameApp{
 
         System.out.println();
 
-        System.out.println("Defenders (ง •_•)ง: \n");
+        System.out.println("Defenders (ง •_•)ง : \n");
         System.out.println(knight.defending());
         System.out.println(wizard.defending());
         System.out.println(archer.defending());

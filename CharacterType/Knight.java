@@ -13,7 +13,7 @@ public class Knight implements CharacterType{
 
     @Override
     public String attacking() {
-        return "Knight is "+ swingSword.attack();
+        return "Knight "+ swingSword.attack();
     }
 
     @Override
